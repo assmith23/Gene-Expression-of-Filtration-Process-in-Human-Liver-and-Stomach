@@ -6,4 +6,6 @@ The human liver and stomach represent two distinct filtering systems with comple
 ## Available Resources
 - `end2end.R` | Script include all the supporting code for the project
 - `enrichmentResults.xlsx` | Enrichment Results from the various gene lists provide via the gene analysis.
+- `differentialExpressionAnalysis_results.xlsx` | Contains the results from differential expression.
+  - The fields are baseMean, log2FoldChange, lfcSE, stat, pvalue, padj
 - `` | Final Paper
