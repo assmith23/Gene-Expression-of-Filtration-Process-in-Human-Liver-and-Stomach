@@ -11,5 +11,5 @@ The human liver and stomach represent two distinct filtering systems with comple
 - `` | Final Paper
 
 ## Data
-- `enrichmentData` | The inpt files used in DAVID for enrichment analysis
+- `enrichmentFiles` | The inpt files used in DAVID for enrichment analysis
 - `countingResults` | The counting results after trimming, mapping and counting from the 6 different tissue samples.
