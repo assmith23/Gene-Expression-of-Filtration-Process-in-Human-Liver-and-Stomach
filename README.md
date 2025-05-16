@@ -9,3 +9,7 @@ The human liver and stomach represent two distinct filtering systems with comple
 - `differentialExpressionAnalysis_results.xlsx` | Contains the results from differential expression.
   - The fields are baseMean, log2FoldChange, lfcSE, stat, pvalue, padj
 - `` | Final Paper
+
+## Data
+- `enrichmentData` | The inpt files used in DAVID for enrichment analysis
+- `countingResults` | The counting results after trimming, mapping and counting from the 6 different tissue samples.
