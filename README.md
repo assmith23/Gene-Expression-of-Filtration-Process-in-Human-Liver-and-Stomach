@@ -5,5 +5,5 @@ The human liver and stomach represent two distinct filtering systems with comple
 
 ## Available Resources
 - `end2end.R` | Script include all the supporting code for the project
-- `` | Enrichment Results
+- `enrichmentResults.xlsx` | Enrichment Results from the various gene lists provide via the gene analysis.
 - `` | Final Paper
